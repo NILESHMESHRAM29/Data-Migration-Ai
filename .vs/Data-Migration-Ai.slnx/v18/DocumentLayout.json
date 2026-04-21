@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nilesh\\source\\repos\\Data-Migration-Ai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98251BA4-2792-A197-47C6-EC5DCBD3A1B9}|Data-Migration-Ai Backend\\Data-Migration-Ai Backend.csproj|c:\\users\\nilesh\\source\\repos\\data-migration-ai\\data-migration-ai backend\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98251BA4-2792-A197-47C6-EC5DCBD3A1B9}|Data-Migration-Ai Backend\\Data-Migration-Ai Backend.csproj|solutionrelative:data-migration-ai backend\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98251BA4-2792-A197-47C6-EC5DCBD3A1B9}|Data-Migration-Ai Backend\\Data-Migration-Ai Backend.csproj|c:\\users\\nilesh\\source\\repos\\data-migration-ai\\data-migration-ai backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98251BA4-2792-A197-47C6-EC5DCBD3A1B9}|Data-Migration-Ai Backend\\Data-Migration-Ai Backend.csproj|solutionrelative:data-migration-ai backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98251BA4-2792-A197-47C6-EC5DCBD3A1B9}|Data-Migration-Ai Backend\\Data-Migration-Ai Backend.csproj|c:\\users\\nilesh\\source\\repos\\data-migration-ai\\data-migration-ai backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98251BA4-2792-A197-47C6-EC5DCBD3A1B9}|Data-Migration-Ai Backend\\Data-Migration-Ai Backend.csproj|solutionrelative:data-migration-ai backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\source\\repos\\Data-Migration-Ai\\Data-Migration-Ai Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Data-Migration-Ai Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nilesh\\source\\repos\\Data-Migration-Ai\\Data-Migration-Ai Backend\\appsettings.json",
+              "RelativeToolTip": "Data-Migration-Ai Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T18:26:43.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\source\\repos\\Data-Migration-Ai\\Data-Migration-Ai Backend\\Controllers\\login.cs",
+              "RelativeDocumentMoniker": "Data-Migration-Ai Backend\\Controllers\\login.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\source\\repos\\Data-Migration-Ai\\Data-Migration-Ai Backend\\Controllers\\login.cs",
+              "RelativeToolTip": "Data-Migration-Ai Backend\\Controllers\\login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:20:06.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nilesh\\source\\repos\\Data-Migration-Ai\\Data-Migration-Ai Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Data-Migration-Ai Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Nilesh\\source\\repos\\Data-Migration-Ai\\Data-Migration-Ai Backend\\Program.cs",
+              "RelativeToolTip": "Data-Migration-Ai Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:08:28.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1218,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

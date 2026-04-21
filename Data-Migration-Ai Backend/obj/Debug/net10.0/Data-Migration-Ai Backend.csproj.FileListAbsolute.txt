@@ -1,0 +1,37 @@
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\bin\Debug\net10.0\appsettings.json
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\bin\Debug\net10.0\Data-Migration-Ai Backend.staticwebassets.endpoints.json
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\bin\Debug\net10.0\Data-Migration-Ai Backend.exe
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\bin\Debug\net10.0\Data-Migration-Ai Backend.deps.json
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\bin\Debug\net10.0\Data-Migration-Ai Backend.runtimeconfig.json
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\bin\Debug\net10.0\Data-Migration-Ai Backend.dll
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\bin\Debug\net10.0\Data-Migration-Ai Backend.pdb
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\Data-Migration-Ai Backend.csproj.AssemblyReference.cache
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\Data-Migration-Ai Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\Data-Migration-Ai Backend.AssemblyInfoInputs.cache
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\Data-Migration-Ai Backend.AssemblyInfo.cs
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\Data-Migration-Ai Backend.csproj.CoreCompileInputs.cache
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\Data-Migration-Ai Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\Data-Migration-Ai Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\scopedcss\bundle\Data-Migration-Ai Backend.styles.css
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\Data-Mig.046592EF.Up2Date
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\Data-Migration-Ai Backend.dll
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\refint\Data-Migration-Ai Backend.dll
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\Data-Migration-Ai Backend.pdb
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\Data-Migration-Ai Backend.genruntimeconfig.cache
+C:\Users\Nilesh\source\repos\Data-Migration-Ai\Data-Migration-Ai Backend\obj\Debug\net10.0\ref\Data-Migration-Ai Backend.dll

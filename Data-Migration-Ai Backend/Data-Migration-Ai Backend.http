@@ -1,0 +1,6 @@
+@Data_Migration_Ai_Backend_HostAddress = http://localhost:5166
+
+GET {{Data_Migration_Ai_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
