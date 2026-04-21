@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nilesh\\source\\repos\\Data-Migration-Ai\\Data-Migration-Ai Backend\\Data-Migration-Ai Backend.csproj": {}
+    "D:\\Codes\\Data-Migration-Ai\\Data-Migration-Ai Backend\\Data-Migration-Ai Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nilesh\\source\\repos\\Data-Migration-Ai\\Data-Migration-Ai Backend\\Data-Migration-Ai Backend.csproj": {
+    "D:\\Codes\\Data-Migration-Ai\\Data-Migration-Ai Backend\\Data-Migration-Ai Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nilesh\\source\\repos\\Data-Migration-Ai\\Data-Migration-Ai Backend\\Data-Migration-Ai Backend.csproj",
+        "projectUniqueName": "D:\\Codes\\Data-Migration-Ai\\Data-Migration-Ai Backend\\Data-Migration-Ai Backend.csproj",
         "projectName": "Data-Migration-Ai Backend",
-        "projectPath": "C:\\Users\\Nilesh\\source\\repos\\Data-Migration-Ai\\Data-Migration-Ai Backend\\Data-Migration-Ai Backend.csproj",
+        "projectPath": "D:\\Codes\\Data-Migration-Ai\\Data-Migration-Ai Backend\\Data-Migration-Ai Backend.csproj",
         "packagesPath": "C:\\Users\\Nilesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nilesh\\source\\repos\\Data-Migration-Ai\\Data-Migration-Ai Backend\\obj\\",
+        "outputPath": "D:\\Codes\\Data-Migration-Ai\\Data-Migration-Ai Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

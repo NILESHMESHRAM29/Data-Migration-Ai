@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Data-Migration-Ai Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67f436cfa8fca3ed6a9b179ce298e4ed1b532e7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Data-Migration-Ai Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Data-Migration-Ai Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
