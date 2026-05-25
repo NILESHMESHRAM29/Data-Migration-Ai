@@ -1,7 +1,7 @@
 import { QueryClient, QueryCache } from '@tanstack/react-query';
 import type { Query, DefaultError, QueryKey } from '@tanstack/react-query';
 import { toast } from 'sonner';
-import { extractErrorMessage } from '../services/apiClient';
+import { extractErrorMessage } from '../../services/apiClient';
 
 declare module '@tanstack/react-query' {
   interface Register {
